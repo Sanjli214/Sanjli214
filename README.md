@@ -69,6 +69,14 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+![Sanjli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjli214&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjli214&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjli214&theme=tokyonight)
+
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjli-agarwal-a77985293)  
