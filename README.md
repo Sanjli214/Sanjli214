@@ -52,4 +52,4 @@
 ---
 
 ## 🌐 Connect with Me
-📫 [LinkedIn](#) | 📊 [Portfolio (coming soon)](#) | ✉️ Reach me here on GitHub<!--
+📫 [LinkedIn](https://www.linkedin.com/in/sanjli-agarwal-a77985293) | 📊 [Portfolio (coming soon)](#) | ✉️ Reach me here on GitHub<!--
