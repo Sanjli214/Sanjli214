@@ -22,13 +22,31 @@
 
 ---
 
-## 🧰 Tech Stack & Tools
-- **Languages:** Python, SQL, C++ (basic)  
-- **Databases:** MySQL  
-- **Analytics:** Power BI (learning), Pandas, NumPy, Matplotlib  
-- **Other Tools:** Git, GitHub, Jupyter Notebook  
+## 🧰 Tech Stack & Tools  
 
----
+### 🔹 Programming & Databases  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### 🔹 Data Science & Analytics  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+
+### 🔹 Machine Learning & NLP  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![NLTK](https://img.shields.io/badge/NLTK-154734?style=for-the-badge&logo=python&logoColor=white)  
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white)  
+
+### 🔹 Tools & Platforms  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🔹 Data Science & Analytics  
 📊 **Student Mental Health Analysis** — Dataset exploration, preprocessing, and visualization using Python  
