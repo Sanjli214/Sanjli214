@@ -51,5 +51,10 @@
 
 ---
 
-## 🌐 Connect with Me
-📫 [LinkedIn](https://www.linkedin.com/in/sanjli-agarwal-a77985293) | 📊 [Portfolio (coming soon)](#) | ✉️ Reach me here on GitHub<!--
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjli-agarwal-a77985293)  
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](raghavagarwal2321@gmail.com)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjliagarwal07)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sanjli_Agarwal/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Sanjli_Agarwal)  <!--
